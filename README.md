@@ -1,2 +1,2 @@
 # Personal-Website
-ernestoha.com
+https://people.ucsc.edu/~eherna65/
